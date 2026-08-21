@@ -12,11 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=PawanKumarSani&theme=vue&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PawanKumarSani&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PawanKumarSani&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-https://github.com/users/Pawankumarsani/achievements/quickdraw
-https://github.com/users/Pawankumarsani/achievements/pull-shark
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
