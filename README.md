@@ -1,141 +1,27 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar+Sani;AI+Engineer+%7C+Building+Production+AI;RAG+%7C+Agents+%7C+LLM+Serving;LangChain+%7C+LangGraph+%7C+PyTorch" alt="Typing SVG" />
-</p>
+# 💫 About Me:
+<p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar+Sani;AI+Engineer+%7C+Building+Production+AI;RAG+%7C+Agents+%7C+LLM+Serving;LangChain+%7C+LangGraph+%7C+PyTorch" alt="Typing SVG" /><br></p><br><br><h3 align="center">AI Engineer | Building Production-Grade AI Systems</h3><br><br><p align="center"><br>  <img src="https://komarev.com/ghpvc/?username=pawankumarsani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /><br>  <img src="https://img.shields.io/github/followers/pawankumarsani?label=Followers&style=social" alt="GitHub followers" /><br></p><br><br>---<br><br>### About Me<br><br>- Building end-to-end AI systems — RAG pipelines, multi-agent orchestration, model serving<br>- Currently learning LangGraph multi-agent patterns, model quantization, and inference optimization<br>- Happy to talk Python, RAG, LangChain, LangGraph, PyTorch, or AI agents<br>- Email: **[your email]**<br>- LinkedIn: **[your LinkedIn]**<br>
 
-<h3 align="center">AI Engineer | Building Production-Grade AI Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawankumarsani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pawankumarsani?label=Followers&style=social" alt="GitHub followers" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-sani-224a2242b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PawanSani11) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pawan Sani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawan.sani321@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PawanKumarSani&theme=vue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PawanKumarSani&theme=vue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PawanKumarSani&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PawanKumarSani&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-- Building end-to-end AI systems — RAG pipelines, multi-agent orchestration, model serving
-- Currently learning LangGraph multi-agent patterns, model quantization, and inference optimization
-- Happy to talk Python, RAG, LangChain, LangGraph, PyTorch, or AI agents
-- Email: **[your email]**
-- LinkedIn: **[your LinkedIn]**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<p align="center">
-  <a href="[your LinkedIn URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pawankumarsani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:[your email]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="[your portfolio/personal site URL, if you have one]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PawanKumarSani&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=PawanKumarSani&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### Skills
-
-**Programming Languages**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**AI / ML Frameworks**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-</p>
-
-**Data**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-*LangChain and LangGraph don't have official logo icons on shields.io yet, so those two
-render as plain colored badges rather than broken/blank icons.*
-
----
-
-### Projects
-
-**🔹 Multi-Agent Research Assistant**
-
-A LangGraph system where a deterministic supervisor routes between four specialized
-agents — researcher, analyst, writer, and reviewer — to research a topic end to end and
-produce a report. The writer/reviewer pair loops automatically until the draft is
-approved or a revision cap is hit. Built with real tool integrations (web, arXiv,
-Wikipedia search) and checkpointed state so a run can pause and resume.
-
-`LangGraph` `LangChain` `Groq` — **[repo link]**
-
-**🔹 [Second project name]**
-
-[One or two honest sentences on what it actually does — swap in a real project here.]
-
-`[tags]` — **[repo link]**
-
-**🔹 [Third project name]**
-
-[Same — fill with a real project.]
-
-`[tags]` — **[repo link]**
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankumarsani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pawankumarsani&show_icons=true&locale=en&theme=radical" alt="GitHub stats" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumarsani&theme=radical" alt="Streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pawankumarsani&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
-<!--
-  Contribution snake animation. This one needs a one-time GitHub Actions
-  setup in your repo (not just pasting a link) -- it's generated by a
-  workflow that runs on a schedule and commits an SVG. See:
-  https://github.com/Platane/snk
-  Once that's set up, the generated file typically lives at:
-  https://raw.githubusercontent.com/pawankumarsani/pawankumarsani/output/github-contribution-grid-snake.svg
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pawankumarsani/pawankumarsani/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
----
-
-### Pinned Repositories
-
-<p align="center">
-  <a href="[repo link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawankumarsani&repo=multi-agent-research-assistant&theme=radical" />
-  </a>
-  <a href="[repo link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawankumarsani&repo=[second-repo-name]&theme=radical" />
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
