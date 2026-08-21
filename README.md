@@ -1,105 +1,42 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar+Sani;AI+Engineer+%7C+Building+Production+AI;RAG+%7C+Agents+%7C+LLM+Serving;LangChain+%7C+LangGraph+%7C+PyTorch" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar+Sani;AI+Engineer+%7C+Building+Production+AI;RAG+%7C+Agents+%7C+LLM+Serving;LangChain+%7C+LangGraph+%7C+PyTorch" alt="Typing SVG" /> </p> <h3 align="center">AI Engineer | Building Production-Grade AI Systems</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pawankumarsani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> <img src="https://img.shields.io/github/followers/pawankumarsani?label=Followers&style=social" alt="GitHub followers" /> </p>
+About Me
+Working on end-to-end AI systems: RAG pipelines, multi-agent orchestration, and model serving
+Currently learning LangGraph multi-agent patterns, model quantization, and inference optimization
+Ask me about Python, RAG, LangChain, LangGraph, PyTorch, or AI agents
+Reach me at: [your email]
+More on my background: [your LinkedIn]
+<p align="center"> <a href="[your LinkedIn URL]" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/pawankumarsani" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="mailto:[your email]" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="[your portfolio/personal site URL, if you have one]" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </p>
+Skills
 
-<h3 align="center">AI Engineer | Building Production-Grade AI Systems</h3>
+Programming Languages
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pawankumarsani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pawankumarsani?label=Followers&style=social" alt="GitHub followers" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
 
----
+AI / ML Frameworks
 
-### About Me
+<p align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" /> </p>
 
-- Working on end-to-end AI systems: RAG pipelines, multi-agent orchestration, and model serving
-- Currently learning LangGraph multi-agent patterns, model quantization, and inference optimization
-- Ask me about Python, RAG, LangChain, LangGraph, PyTorch, or AI agents
-- Reach me at: **[your email]**
-- More on my background: **[your LinkedIn]**
+Data
 
-<p align="center">
-  <a href="[your LinkedIn URL]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pawankumarsani" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:[your email]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> </p>
 
----
+Tools & Platforms
 
-### Languages & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+LangChain and LangGraph don't have official logo icons on shields.io yet, so those two render as plain colored badges rather than broken/blank icons.
 
-*Note: LangChain and LangGraph don't have official shields.io logo icons yet, so those two
-badges are plain — not a mistake, just no icon available for them.*
+LangChain, LangGraph, and Groq don't have icons on skillicons.dev yet, so they're listed here instead: LangChain · LangGraph · Groq · ChromaDB
 
----
+Projects
 
-### Projects
+Multi-Agent Research Assistant A LangGraph system where a deterministic supervisor routes between four specialized agents — researcher, analyst, writer, and reviewer — to research a topic end to end and produce a report. The writer/reviewer pair loops automatically until the draft is approved or a revision cap is hit. Built with real tool integrations (web, arXiv, Wikipedia search) and checkpointed state so a run can pause and resume. LangGraph LangChain Groq [repo link]
 
-**Multi-Agent Research Assistant**
-A LangGraph system where a deterministic supervisor routes between four specialized
-agents — researcher, analyst, writer, and reviewer — to research a topic end to end and
-produce a report. The writer/reviewer pair loops automatically until the draft is
-approved or a revision cap is hit. Built with real tool integrations (web, arXiv,
-Wikipedia search) and checkpointed state so a run can pause and resume.
-`LangGraph` `LangChain` `Groq`
-**[repo link]**
+[Second project name] [One or two honest sentences on what it actually does — swap in your real second project here rather than a generic RAG-with-citations placeholder, unless that's a project you've actually built.] [tags] [repo link]
 
-**[Second project name]**
-[One or two honest sentences on what it actually does — swap in your real second project
-here rather than a generic RAG-with-citations placeholder, unless that's a project you've
-actually built.]
-`[tags]`
-**[repo link]**
+[Third project name] [Same — fill with a real project.] [tags] [repo link]
 
-**[Third project name]**
-[Same — fill with a real project.]
-`[tags]`
-**[repo link]**
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankumarsani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pawankumarsani&show_icons=true&locale=en&theme=radical" alt="GitHub stats" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumarsani&theme=radical" alt="Streak stats" />
-</p>
-
----
-
-### Pinned Repositories
-
-<p align="center">
-  <a href="[repo link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawankumarsani&repo=multi-agent-research-assistant&theme=radical" />
-  </a>
-  <a href="[repo link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawankumarsani&repo=[second-repo-name]&theme=radical" />
-  </a>
-</p>
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawankumarsani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=pawankumarsani&show_icons=true&locale=en&theme=radical" alt="GitHub stats" width="45%" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawankumarsani&theme=radical" alt="Streak stats" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=pawankumarsani&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" /> </p> <!-- Contribution snake animation. This one needs a one-time GitHub Actions setup in your repo (not just pasting a link) -- it's generated by a workflow that runs on a schedule and commits an SVG. See: https://github.com/Platane/snk Once that's set up, the generated file typically lives at: https://raw.githubusercontent.com/pawankumarsani/pawankumarsani/output/github-contribution-grid-snake.svg --> <p align="center"> <img src="https://raw.githubusercontent.com/pawankumarsani/pawankumarsani/output/github-contribution-grid-snake.svg" alt="Contribution snake" /> </p>
+Pinned Repositories
+<p align="center"> <a href="[repo link]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawankumarsani&repo=multi-agent-research-assistant&theme=radical" /> </a> <a href="[repo link]"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=pawankumarsani&repo=[second-repo-name]&theme=radical" /> </a> </p>
