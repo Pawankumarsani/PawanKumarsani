@@ -15,6 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PawanKumarSani&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 https://github.com/users/Pawankumarsani/achievements/quickdraw
+https://github.com/users/Pawankumarsani/achievements/pull-shark
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
