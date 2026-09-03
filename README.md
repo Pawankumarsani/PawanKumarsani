@@ -43,7 +43,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,numpy,pandas,git,github,mysql,sqlite,docker,bash,anaconda,arduino," />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,numpy,pandas,git,github,mysql,sqlite,docker,bash,anaconda,arduino,linux" />
 </p>
 
 <p align="center">
