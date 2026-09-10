@@ -93,7 +93,8 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
 
 ### 📊 GitHub Stats
 
-<table align="center">
+<table align="center">                                                                <img src="https://i.gifer.com/Paz.gif" width="300" alt="Funny GIF">
+
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.shion.dev/api?username=PawanKumarSani&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" /><br/>
@@ -101,7 +102,8 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
       <img src="https://streak-stats.demolab.com/?user=PawanKumarSani&theme=vue&hide_border=true" alt="Streak stats" />
     </td>
     <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400" alt="Coding animation" />
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400" alt="Coding animation" /> 
+
     </td>
   </tr>
 </table>
