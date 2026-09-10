@@ -92,23 +92,12 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawanKumarSani&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKumarSani&layout=compact&theme=vue&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PawanKumarSani&show_icons=true&theme=vue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKumarSani&layout=compact&theme=vue)
+![GitHub Streak](https://streak-stats.demolab.com?user=PawanKumarSani&theme=vue)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PawanKumarSani&theme=vue&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400" alt="Coding Animation" />
-</p>
-
-<p align="center">
-  <img src="https://i.gifer.com/Paz.gif" width="400" alt="Fun GIF" />
-</p>
-
+![Coding Animation](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif)
+![Fun GIF](https://i.gifer.com/Paz.gif)
 
 ### ✍️ Random Dev Quote
 
