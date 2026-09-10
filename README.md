@@ -99,7 +99,7 @@ I design and build end-to-end AI systems — retrieval-augmented generation pipe
         <img src="https://img.shields.io/badge/FAISS-005571?style=flat-square" />
         <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
       </p>
-      <a href="https://github.com/Pawankumarsani/multimodal-rag">View Repository →</a>
+      <a href="https://github.com/Pawankumarsani/multi_model_rag">View Repository →</a>
     </td>
     <td width="33%" valign="top">
       <h3>Agentic RAG</h3>
