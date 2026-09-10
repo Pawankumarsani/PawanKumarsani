@@ -107,11 +107,11 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
 </table>
 
 <!--
-  That gif is a widely-used public one from the profile-README community
+  [That gif is a widely-used public one from the profile-README community
   (not something unique to you) -- I can't browse to confirm it's still
   live at that path, so check it renders after you push. If it's broken
   or you'd rather have something more personal, giphy.com has plenty of
-  "coding"/"typing" gifs with direct .gif links that drop in the same way.
+  "coding"/"typing" gifs with direct .gif links that drop in the same way.](https://i.gifer.com/Paz.gif)
 -->
 
 ---
