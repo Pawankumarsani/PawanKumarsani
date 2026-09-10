@@ -115,7 +115,11 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400" alt="Coding Animation" />
 
+  <!-- Example: Adding your GIF -->
+  <img src="https://i.gifer.com/Paz.gif" width="400" alt="Fun GIF" />
+
 </div>
+
 
 
 ### ✍️ Random Dev Quote
