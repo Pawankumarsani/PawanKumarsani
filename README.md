@@ -71,11 +71,23 @@ Wikipedia search) and checkpointed state so a run can pause and resume.
 
 `LangGraph` `LangChain` `Groq` -- **[(https://github.com/Pawankumarsani/multi_agent_research_assistant)]**
 
-**🔹 [Second project name]**
+**🔹 [AGENTIC RAG]**
 
-[One or two honest sentences on what it actually does.]
+[Agentic RAG
 
-`[tags]` -- **[repo link]**
+A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hugging Face Embeddings, and Streamlit**.
+
+## Features
+
+* Agent decides whether retrieval is needed.
+* Retrieves information from LangGraph and LangChain documentation.
+* Uses FAISS for vector search.
+* Checks whether retrieved documents are relevant.
+* Rewrites the question if the documents are not relevant.
+* Generates an answer using retrieved context.
+* Includes a Streamlit chat interface..]
+
+`[tags]` -- **[]**
 
 ---
 
