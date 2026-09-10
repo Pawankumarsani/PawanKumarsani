@@ -90,35 +90,27 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
 `LangGraph` `LangChain` `Groq` `Streamlit` -- **[https://github.com/Pawankumarsani/Agentic_RAG]**
 
 ---
-
 ### 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PawanKumarSani&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKumarSani&layout=compact&theme=vue&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=PawanKumarSani&theme=vue&hide_border=true" height="180" alt="GitHub Streak" />
-
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-
+<p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400" alt="Coding Animation" />
-
-  <!-- Example: Adding your GIF -->
+  <br/>
   <img src="https://i.gifer.com/Paz.gif" width="400" alt="Fun GIF" />
+</p>
 
-</div>
 
 
 
