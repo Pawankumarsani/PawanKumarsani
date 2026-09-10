@@ -2,7 +2,7 @@
 <tr>
 <td width="100%" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Pawan+Kumar+Sani;AI+Engineer;RAG+Systems+%7C+Agentic+Workflows+%7C+LLM+Serving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=36&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Pawan+Kumar+Sani;AI+Engineer;RAG+Systems+%7C+Agentic+Workflows+%7C+LLM+Serving" alt="Typing SVG" />
 
 <p>
   <em>Building retrieval-augmented and agentic AI systems with LangChain &amp; LangGraph</em>
