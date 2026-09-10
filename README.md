@@ -97,21 +97,17 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanKumarSani&layout=compact&theme=vue&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PawanKumarSani&theme=vue&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
-<br/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400" alt="Coding Animation" />
-  <br/>
-  <img src="https://i.gifer.com/Paz.gif" width="400" alt="Fun GIF" />
 </p>
 
-
+<p align="center">
+  <img src="https://i.gifer.com/Paz.gif" width="400" alt="Fun GIF" />
+</p>
 
 
 ### ✍️ Random Dev Quote
