@@ -71,9 +71,9 @@ Wikipedia search) and checkpointed state so a run can pause and resume.
 
 `LangGraph` `LangChain` `Groq` -- **[(https://github.com/Pawankumarsani/multi_agent_research_assistant)]**
 
-**🔹 [AGENTIC RAG]**
+**🔹 AGENTIC RAG**
 
-[Agentic RAG
+Agentic RAG
 
 A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hugging Face Embeddings, and Streamlit**.
 
@@ -85,9 +85,9 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
 * Checks whether retrieved documents are relevant.
 * Rewrites the question if the documents are not relevant.
 * Generates an answer using retrieved context.
-* Includes a Streamlit chat interface..]
+* Includes a Streamlit chat interface..
 
-`[tags]` -- **[]**
+`LangGraph` `LangChain` `Groq` `Streamlit` -- **[https://github.com/Pawankumarsani/Agentic_RAG]**
 
 ---
 
