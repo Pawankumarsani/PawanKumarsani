@@ -106,8 +106,6 @@ A simple Agentic RAG project built using **LangGraph, LangChain, Groq, FAISS, Hu
   </tr>
 </table>
 
-https://i.gifer.com/Paz.gif
-
 ---
 
 ### ✍️ Random Dev Quote
