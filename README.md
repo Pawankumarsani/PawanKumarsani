@@ -115,8 +115,7 @@ I design and build end-to-end AI systems — retrieval-augmented generation pipe
   </tr>
 </table>
 
-> Update the Multimodal RAG link once the repository is public under its final name.
-
+> 
 <br>
 
 
