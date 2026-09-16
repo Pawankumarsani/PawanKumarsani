@@ -41,6 +41,7 @@ I design and build end-to-end AI systems — retrieval-augmented generation pipe
 - 🧠 Comfortable across the retrieval stack: chunking strategies, embedding models, vector databases (FAISS, ChromaDB), and citation-grounded generation
 - 💬 Open to conversations on Python, RAG, LangChain, LangGraph, PyTorch, or AI agents
 - 📫 **pawan.sani321@gmail.com**
+- 🔗 **https://pawansani.lovable.app/**
 
 <br>
 
