@@ -118,9 +118,6 @@ I design and build end-to-end AI systems — retrieval-augmented generation pipe
 
 <br>
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Pawankumarsani/Agentic_RAG,Pawankumarsani/Production_Multi_Agent,Pawankumarsani/Traditional_RAG,Pawankumarsani/multi_model_rag,Pawankumarsani/langgraph_customer_support,Pawankumarsani/ml_cicd_demo&type=Date)](https://star-history.com/#Pawankumarsani/Agentic_RAG&Date)
 
 ## GitHub Stats
 
